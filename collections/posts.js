@@ -30,7 +30,7 @@ postSchemaObject = {
       type: "bootstrap-datetimepicker"
     }
   },
-  url: {
+/*  url: {
     type: String,
     label: "URL",
     optional: true,
@@ -38,7 +38,7 @@ postSchemaObject = {
       editable: true,
       type: "bootstrap-url"
     }
-  },
+  }, */
   title: {
     type: String,
     optional: false,

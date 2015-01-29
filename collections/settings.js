@@ -7,15 +7,15 @@ settingsSchemaObject = {
       group: 'general'
     }
   },
-  siteUrl: {
-    type: String,
-    optional: true,
-    label: 'Site URL',
-    autoform: {
-      group: 'general',
-      instructions: 'Your site\'s URL (with trailing "/"). Will default to Meteor.absoluteUrl()'
-    }
-  },
+//  siteUrl: {
+//    type: String,
+//    optional: true,
+//    label: 'Site URL',
+//    autoform: {
+//     group: 'general',
+//    instructions: 'Your site\'s URL (with trailing "/"). Will default to Meteor.absoluteUrl()'
+//    }
+//  },
   tagline: {
     type: String,
     label: "Tagline",
